@@ -8,7 +8,7 @@ export const FormContainer = styled.form`
   margin-left: auto;
   margin-right: auto;
   border: 2px solid #3e4d44;
-  border-radius: 10px;
+  border-radius: 5px;
 `;
 
 export const Label = styled.label`

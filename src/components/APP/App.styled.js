@@ -18,9 +18,9 @@ export const TitleForm = styled.h1`
 
 export const TitleContacts = styled.h2`
   text-align: center;
-  font-size: 34px;
+  font-size: 24px;
   color: black;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 `;
 
 export const ContentBlock = styled.div`
@@ -38,12 +38,6 @@ export const ContentBlock = styled.div`
 export const ScrollBar = styled.div`
   height: 420px;
   overflow-y: scroll;
-  ::-webkit-scrollbar {
-    width: 10px;
-  }
-  ::-webkit-scrollbar-track {
-    background: #f1f1f1;
-  }
 `;
 
 export const Message = styled.p`

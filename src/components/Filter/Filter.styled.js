@@ -8,7 +8,7 @@ export const Container = styled.div`
   margin-left: auto;
   margin-right: auto;
   border: 2px solid #3e4d44;
-  border-radius: 10px;
+  border-radius: 5px;
 `;
 
 export const Label = styled.label`
@@ -21,5 +21,5 @@ export const Input = styled.input`
   display: flex;
   flex-direction: column;
   margin-top: 5px;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 `;

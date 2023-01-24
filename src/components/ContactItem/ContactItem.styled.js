@@ -18,14 +18,15 @@ export const Button = styled.button`
 `;
 
 export const Number = styled.span`
-  margin-left: 10px;
+  margin-left: 5px;
 `;
 
 export const Contact = styled.div`
   display: flex;
   align-items: center;
+  
 `;
 
 export const Name = styled.p`
-  margin-left: 10px;
+  margin-left: 5px;
 `;
